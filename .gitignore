@@ -5,6 +5,7 @@
 #vs
 *.suo
 *.user
+build.log
 
 #tmplocal
 BuildProcessTemplates/
