@@ -8,8 +8,8 @@
     <ProjectGuid>{B5999504-0CD1-4466-B4C1-B2F05EF644D4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>deploy2ekb8</RootNamespace>
-    <AssemblyName>deploy2ekb8</AssemblyName>
+    <RootNamespace>ekb.deploy</RootNamespace>
+    <AssemblyName>ekb-deploy</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>
