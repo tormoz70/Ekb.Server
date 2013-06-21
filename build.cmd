@@ -1,5 +1,5 @@
 echo Cleaning output...
 del /F /Q ..\Ekb.Client.SL\ekb\bin\
 echo Cleaning output - done
-call ..\build-scripts\build_sol.cmd Ekb.Server
+call ..\ekb-build-scripts\build_sol.cmd Ekb.Server
 if %BUILD_STATUS%==0 copy build\Release\*.* ..\Ekb.Client.SL\ekb\bin\
