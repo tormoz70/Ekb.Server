@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bio.Framework.Server.Handle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deploy.server", "deploy.server\deploy.server.csproj", "{B5999504-0CD1-4466-B4C1-B2F05EF644D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deploy.rpt.service", "deploy.rpt.service\deploy.rpt.service.csproj", "{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -331,6 +333,16 @@ Global
 		{B5999504-0CD1-4466-B4C1-B2F05EF644D4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{B5999504-0CD1-4466-B4C1-B2F05EF644D4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{B5999504-0CD1-4466-B4C1-B2F05EF644D4}.Release|x86.ActiveCfg = Release|Any CPU
+		{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1904C4B7-0EB9-41EE-AA1B-AA46F3EF6E7E}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
